@@ -1,1 +1,1 @@
-![stats](https://github-readme-stats.vercel.app/api?username=Zodasic&theme=gruvbox)<br>
+![stats](https://github-readme-stats.vercel.app/api?username=Zodasic&theme=merko)<br>
